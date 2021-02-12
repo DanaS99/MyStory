@@ -26,7 +26,6 @@ function eventResize(event, delta, revertFunc) {
     />
   );
 }*/
-
 function Calendar(props) {
   var Title=[];
   var Time=[];
